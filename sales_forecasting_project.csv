@@ -1,115 +1,115 @@
 Date,Region,Product,Sales
-2023-01-01,North,Tablet,1872.46
-2023-01-01,South,Laptop,2319.81
-2023-01-01,East,Laptop,2379.88
-2023-01-01,West,Tablet,1344.88
-2023-01-02,North,Tablet,1741.86
-2023-01-02,South,Tablet,1501.58
-2023-01-02,East,Phone,1711.97
-2023-01-02,West,Phone,1376.07
-2023-01-03,North,Phone,2119.36
-2023-01-03,South,Laptop,2180.81
-2023-01-03,East,Laptop,2222.47
-2023-01-03,West,Phone,1171.42
-2023-01-04,North,Tablet,1919.85
-2023-01-04,South,Tablet,1316.13
-2023-01-04,East,Tablet,1496.33
-2023-01-04,West,Laptop,1853.33
-2023-01-05,North,Tablet,1621.23
-2023-01-05,South,Phone,1836.92
-2023-01-05,East,Laptop,2009.9
-2023-01-05,West,Tablet,1156.25
-2023-01-06,North,Tablet,1869.53
-2023-01-06,South,Tablet,1405.97
-2023-01-06,East,Phone,1521.03
-2023-01-06,West,Phone,1338.64
-2023-01-07,North,Phone,2601.75
-2023-01-07,South,Phone,1961.55
-2023-01-07,East,Laptop,2525.77
-2023-01-07,West,Phone,1635.71
-2023-01-08,North,Tablet,2039.67
-2023-01-08,South,Laptop,2246.33
-2023-01-08,East,Laptop,2531.06
-2023-01-08,West,Phone,1529.28
-2023-01-09,North,Laptop,2351.54
-2023-01-09,South,Laptop,1685.54
-2023-01-09,East,Laptop,2187.32
-2023-01-09,West,Tablet,1333.16
-2023-01-10,North,Tablet,1574.12
-2023-01-10,South,Tablet,1303.62
-2023-01-10,East,Laptop,1873.78
-2023-01-10,West,Tablet,1364.95
-2023-01-11,North,Tablet,1881.83
-2023-01-11,South,Phone,1735.02
-2023-01-11,East,Tablet,1193.34
-2023-01-11,West,Tablet,1360.42
-2023-01-12,North,Phone,1970.17
-2023-01-12,South,Tablet,1460.42
-2023-01-12,East,Tablet,1407.77
-2023-01-12,West,Laptop,1849.93
-2023-01-13,North,Tablet,1713.06
-2023-01-13,South,Laptop,1905.15
-2023-01-13,East,Phone,1744.65
-2023-01-13,West,Tablet,1045.78
-2023-01-14,North,Tablet,2198.44
-2023-01-14,South,Phone,1906.06
-2023-01-14,East,Phone,2030.22
-2023-01-14,West,Phone,1783.73
-2023-01-15,North,Phone,2133.39
-2023-01-15,South,Tablet,1665.12
-2023-01-15,East,Laptop,2309.69
-2023-01-15,West,Laptop,2020.85
-2023-01-16,North,Tablet,1891.06
-2023-01-16,South,Laptop,1906.21
-2023-01-16,East,Tablet,1500.77
-2023-01-16,West,Laptop,1764.81
-2023-01-17,North,Phone,1840.67
-2023-01-17,South,Tablet,1306.63
-2023-01-17,East,Tablet,1532.24
-2023-01-17,West,Laptop,1496.65
-2023-01-18,North,Laptop,2297.68
-2023-01-18,South,Phone,1545.89
-2023-01-18,East,Tablet,1212.18
-2023-01-18,West,Laptop,1796.02
-2023-01-19,North,Laptop,2233.74
-2023-01-19,South,Laptop,1937.38
-2023-01-19,East,Laptop,2013.79
-2023-01-19,West,Phone,1336.78
-2023-01-20,North,Phone,2015.09
-2023-01-20,South,Tablet,1177.53
-2023-01-20,East,Tablet,1609.17
-2023-01-20,West,Laptop,1707.14
-2023-01-21,North,Phone,2273.03
-2023-01-21,South,Laptop,2571.07
-2023-01-21,East,Laptop,2266.42
-2023-01-21,West,Laptop,1985.06
-2023-01-22,North,Tablet,2210.99
-2023-01-22,South,Tablet,1683.54
-2023-01-22,East,Phone,1722.4
-2023-01-22,West,Tablet,1390.28
-2023-01-23,North,Laptop,2162.09
-2023-01-23,South,Phone,1782.49
-2023-01-23,East,Laptop,2275.38
-2023-01-23,West,Phone,1531.0
-2023-01-24,North,Tablet,1980.85
-2023-01-24,South,Tablet,1409.46
-2023-01-24,East,Phone,1701.96
-2023-01-24,West,Laptop,1856.67
-2023-01-25,North,Phone,2050.07
-2023-01-25,South,Tablet,1372.86
-2023-01-25,East,Laptop,2244.72
-2023-01-25,West,Tablet,1040.28
-2023-01-26,North,Phone,1992.65
-2023-01-26,South,Tablet,1532.56
-2023-01-26,East,Laptop,2143.96
-2023-01-26,West,Laptop,1692.85
-2023-01-27,North,Phone,1926.22
-2023-01-27,South,Phone,1367.47
-2023-01-27,East,Tablet,1321.3
-2023-01-27,West,Laptop,1898.48
-2023-01-28,North,Laptop,2445.49
-2023-01-28,South,Tablet,1548.71
-2023-01-28,East,Tablet,1848.31
+2023-01-01,north,Tablet,1872.46
+2023-01-01,north,Laptop,2319.81
+2023-01-01,north,Laptop,2379.88
+2023-01-01,north,Tablet,1344.88
+2023-01-02,north,Tablet,1741.86
+2023-01-02,north,Tablet,1501.58
+2023-01-02,north,Phone,1711.97
+2023-01-02,north,Phone,1376.07
+2023-01-03,north,Phone,2119.36
+2023-01-03,north,Laptop,2180.81
+2023-01-03,north,Laptop,2222.47
+2023-01-03,north,Phone,1171.42
+2023-01-04,north,Tablet,1919.85
+2023-01-04,north,Tablet,1316.13
+2023-01-04,north,Tablet,1496.33
+2023-01-04,north,Laptop,1853.33
+2023-01-05,north,Tablet,1621.23
+2023-01-05,north,Phone,1836.92
+2023-01-05,north,Laptop,2009.9
+2023-01-05,north,Tablet,1156.25
+2023-01-06,north,Tablet,1869.53
+2023-01-06,NORTH,Tablet,1405.97
+2023-01-06,NORTH,Phone,1521.03
+2023-01-06,NORTH,Phone,1338.64
+2023-01-07,NORTH,Phone,2601.75
+2023-01-07,NORTH,Phone,1961.55
+2023-01-07,NORTH,Laptop,2525.77
+2023-01-07,NORTH,Phone,1635.71
+2023-01-08,NORTH,Tablet,2039.67
+2023-01-08,NORTH,Laptop,2246.33
+2023-01-08,NORTH,Laptop,2531.06
+2023-01-08,NORTH,Phone,1529.28
+2023-01-09,NORTH,Laptop,2351.54
+2023-01-09,NORTH,Laptop,1685.54
+2023-01-09,NORTH,Laptop,2187.32
+2023-01-09,NORTH,Tablet,1333.16
+2023-01-10,NORTH,Tablet,1574.12
+2023-01-10,NORTH,Tablet,1303.62
+2023-01-10,NORTH,Laptop,1873.78
+2023-01-10,NORTH,Tablet,1364.95
+2023-01-11,NORTH,Tablet,1881.83
+2023-01-11, south ,Phone,1735.02
+2023-01-11, south ,Tablet,1193.34
+2023-01-11, south ,Tablet,1360.42
+2023-01-12, south ,Phone,1970.17
+2023-01-12, south ,Tablet,1460.42
+2023-01-12, south ,Tablet,1407.77
+2023-01-12, south ,Laptop,1849.93
+2023-01-13, south ,Tablet,1713.06
+2023-01-13, south ,Laptop,1905.15
+2023-01-13, south ,Phone,1744.65
+2023-01-13, south ,Tablet,1045.78
+2023-01-14, south ,Tablet,2198.44
+2023-01-14, south ,Phone,1906.06
+2023-01-14, south ,Phone,2030.22
+2023-01-14, south ,Phone,1783.73
+2023-01-15, south ,Phone,2133.39
+2023-01-15, south ,Tablet,1665.12
+2023-01-15, south ,Laptop,2309.69
+2023-01-15, south ,Laptop,2020.85
+2023-01-16, south ,Tablet,1891.06
+2023-01-16,EAST ,Laptop,1906.21
+2023-01-16,EAST ,Tablet,1500.77
+2023-01-16,EAST ,Laptop,1764.81
+2023-01-17,EAST ,Phone,1840.67
+2023-01-17,EAST ,Tablet,1306.63
+2023-01-17,EAST ,Tablet,1532.24
+2023-01-17,EAST ,Laptop,1496.65
+2023-01-18,EAST ,Laptop,2297.68
+2023-01-18,EAST ,Phone,1545.89
+2023-01-18,EAST ,Tablet,1212.18
+2023-01-18,EAST ,Laptop,1796.02
+2023-01-19,EAST ,Laptop,2233.74
+2023-01-19,EAST ,Laptop,1937.38
+2023-01-19,EAST ,Laptop,2013.79
+2023-01-19,EAST ,Phone,1336.78
+2023-01-20,EAST ,Phone,2015.09
+2023-01-20,EAST ,Tablet,1177.53
+2023-01-20,EAST ,Tablet,1609.17
+2023-01-20,EAST ,Laptop,1707.14
+2023-01-21,EAST ,Phone,2273.03
+2023-01-21, west,Laptop,2571.07
+2023-01-21, west,Laptop,2266.42
+2023-01-21, west,Laptop,1985.06
+2023-01-22, west,Tablet,2210.99
+2023-01-22, west,Tablet,1683.54
+2023-01-22, west,Phone,1722.4
+2023-01-22, west,Tablet,1390.28
+2023-01-23, west,Laptop,2162.09
+2023-01-23, west,Phone,1782.49
+2023-01-23, west,Laptop,2275.38
+2023-01-23, west,Phone,1531.0
+2023-01-24, west,Tablet,1980.85
+2023-01-24, west,Tablet,1409.46
+2023-01-24, west,Phone,1701.96
+2023-01-24, west,Laptop,1856.67
+2023-01-25, west,Phone,2050.07
+2023-01-25, west,Tablet,1372.86
+2023-01-25, west,Laptop,2244.72
+2023-01-25, west,Tablet,1040.28
+2023-01-26, west,,1992.65
+2023-01-26,South,,1532.56
+2023-01-26,East,,2143.96
+2023-01-26,West,,1692.85
+2023-01-27,North,,1926.22
+2023-01-27,South,,1367.47
+2023-01-27,East,,1321.3
+2023-01-27,West,,1898.48
+2023-01-28,North,,2445.49
+2023-01-28,South,,1548.71
+2023-01-28,East,,1848.31
 2023-01-28,West,Tablet,1664.52
 2023-01-29,North,Tablet,1757.21
 2023-01-29,South,Phone,1890.56
@@ -199,17 +199,17 @@ Date,Region,Product,Sales
 2023-02-19,South,Laptop,2316.69
 2023-02-19,East,Laptop,2695.56
 2023-02-19,West,Tablet,1633.2
-2023-02-20,North,Phone,1973.82
-2023-02-20,South,Tablet,1120.88
-2023-02-20,East,Phone,1469.89
-2023-02-20,West,Tablet,1254.46
-2023-02-21,North,Laptop,2170.61
-2023-02-21,South,Phone,1668.59
-2023-02-21,East,Laptop,2051.1
-2023-02-21,West,Laptop,2288.1
-2023-02-22,North,Phone,1811.55
-2023-02-22,South,Laptop,1905.25
-2023-02-22,East,Laptop,2038.31
+2023-02-20,North,Phone,
+2023-02-20,South,Tablet,
+2023-02-20,East,Phone,
+2023-02-20,West,Tablet,
+2023-02-21,North,Laptop,
+2023-02-21,South,Phone,
+2023-02-21,East,Laptop,
+2023-02-21,West,Laptop,
+2023-02-22,North,Phone,
+2023-02-22,South,Laptop,
+2023-02-22,East,Laptop,
 2023-02-22,West,Phone,1547.6
 2023-02-23,North,Tablet,1714.55
 2023-02-23,South,Tablet,1439.27
@@ -2923,3 +2923,18 @@ Date,Region,Product,Sales
 2024-12-31,South,Laptop,2622.49
 2024-12-31,East,Tablet,2265.04
 2024-12-31,West,Tablet,1677.31
+2023-01-01,north,Tablet,1872.46
+2023-01-01,north,Laptop,2319.81
+2023-01-01,north,Laptop,2379.88
+2023-01-01,north,Tablet,1344.88
+2023-01-02,north,Tablet,1741.86
+2023-01-02,north,Tablet,1501.58
+2023-01-02,north,Phone,1711.97
+2023-01-02,north,Phone,1376.07
+2023-01-03,north,Phone,2119.36
+2023-01-03,north,Laptop,2180.81
+2023-01-03,north,Laptop,2222.47
+2023-01-03,north,Phone,1171.42
+2023-01-04,north,Tablet,1919.85
+2023-01-04,north,Tablet,1316.13
+2023-01-04,north,Tablet,1496.33
